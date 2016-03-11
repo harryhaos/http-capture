@@ -4,6 +4,7 @@
 - Twisted 
 - Requests
 - Zope.interface
+- pywin32(may need on windows, not well tested)
 
 ## usage
 - python newproxyserver.py -h  
